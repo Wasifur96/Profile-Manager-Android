@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProfileManager</string>
+    <string name="Tv1">Acc X:    </string>
+    <string name="Tv2">Acc Y:    </string>
+    <string name="Tv3">Acc Z:    </string>
+    <string name="Tv4">   Mag X:</string>
+    <string name="Tv5">   Mag Y:</string>
+    <string name="Tv6">   Mag Z:  </string>
+    <string name="Tv7">        Light:</string>
+    <string name="btn">  UnBind</string>
+    <string name="service_demo_tag">0</string>
+
+</resources>
